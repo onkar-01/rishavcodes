@@ -36,5 +36,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rishavcodes&theme=dark&background=0d1117&show_icons=true&locale=en" alt="rishavcodes" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishavcodes&theme=dark" alt="rishavcodes" /></p>
-
- #### Thanks for watching my profile! Have a nice day!
+<h6 align="center">Thanks for watching my profile! Have a nice day!</h6>
